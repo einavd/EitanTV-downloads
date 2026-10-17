@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "media": {
+    "available": true,
+    "applicationId": "il.eitantv.media",
+    "version": "0.1.4",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.4/EitanTV-Media-Setup-0.1.4-x64.exe",
+    "sha256": "f7836021d2044b2dcbcab6434b17ed98a2917886bb215769b9b8501c7455b2a1",
+    "size": 111602003
+  },
+  "studio": {
+    "available": true,
+    "applicationId": "il.eitantv.studio",
+    "version": "0.1.4",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.4/EitanTV-Studio-Setup-0.1.4-x64.exe",
+    "sha256": "d2e69a1830c6cd6b25114acc34cb3aa905b003de7248554471a5a9071a189a99",
+    "size": 111616652
+  }
+}
