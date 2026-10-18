@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "phone": {
+    "available": true,
+    "applicationId": "il.eitantv.media",
+    "versionCode": 1,
+    "versionName": "0.1.0",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.0/EitanTV-Phone-0.1.0.apk",
+    "sha256": "92c4a23854939ce73809961173a432c403b3e2a4d8a434c70a3a1b694daf2324",
+    "size": 19200,
+    "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
+    "notes": "גרסת ניסוי ראשונה של Media. נדרש Android 8 ומעלה ומחשב שרת מחובר. Eitangram ב־Android וצפייה מרחוק טרם הושלמו. ניגון ושלט עדיין דורשים בדיקה במכשיר אמיתי."
+  },
+  "tv": {
+    "available": true,
+    "applicationId": "il.eitantv.media.tv",
+    "versionCode": 1,
+    "versionName": "0.1.0",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.0/EitanTV-TV-0.1.0.apk",
+    "sha256": "b8fe77a54b04e21c0b099eacccd4adcf2eec0be90bdb5ac69d660bdeb2705764",
+    "size": 19308,
+    "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
+    "notes": "גרסת ניסוי ראשונה של Media. נדרש Android 8 ומעלה ומחשב שרת מחובר. Eitangram ב־Android וצפייה מרחוק טרם הושלמו. ניגון ושלט עדיין דורשים בדיקה במכשיר אמיתי."
+  }
+}
