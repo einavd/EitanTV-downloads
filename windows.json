@@ -3,17 +3,17 @@
   "media": {
     "available": true,
     "applicationId": "il.eitantv.media",
-    "version": "0.1.9",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.9/EitanTV-Media-Setup-0.1.9-x64.exe",
-    "sha256": "9c0d29749fbf3c2ebfa00504677c717ba5eab0e7910958b30cb4c5b2b01f557d",
-    "size": 112038713
+    "version": "0.1.10",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.10/EitanTV-Media-Setup-0.1.10-x64.exe",
+    "sha256": "ca5b882868e1ea7dfbd6d67a7699ae5bb2f56c50c1a8967632b5b85a55b2588a",
+    "size": 112047952
   },
   "studio": {
     "available": true,
     "applicationId": "il.eitantv.studio",
-    "version": "0.1.9",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.9/EitanTV-Studio-Setup-0.1.9-x64.exe",
-    "sha256": "cb239355505817612786683ed4e277e175c68798eab610ba2fcb779a1ece43be",
-    "size": 112053387
+    "version": "0.1.10",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/v0.1.10/EitanTV-Studio-Setup-0.1.10-x64.exe",
+    "sha256": "08150b730de0ed0cb7d709d82db41a5b7d0569bd95f6d9412e5a640ab13a3f24",
+    "size": 112062432
   }
 }
