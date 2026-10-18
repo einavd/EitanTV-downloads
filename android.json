@@ -3,23 +3,23 @@
   "phone": {
     "available": true,
     "applicationId": "il.eitantv.media",
-    "versionCode": 2,
-    "versionName": "0.1.1",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.1/EitanTV-Phone-0.1.1.apk",
-    "sha256": "2e3fd15e042ccf1fdb671471d73ce219bb8856a3a8966ee79fdf86198ebe28da",
-    "size": 19304,
+    "versionCode": 3,
+    "versionName": "0.1.2",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.2/EitanTV-Phone-0.1.2.apk",
+    "sha256": "6dc8cd80f5e61ff8ed32ef2affe3396c193144854ad7e86713588dc062250ba7",
+    "size": 19628,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "עדכון האייקון הרשמי של Media לטלפון ולטלוויזיה. נדרש Android 8 ומעלה ומחשב שרת מחובר. Eitangram ב־Android וצפייה מרחוק טרם הושלמו. ניגון ושלט עדיין דורשים בדיקה במכשיר אמיתי."
+    "notes": "התאמות TV למסך רחב, תפריט עדכונים נגיש בשלט וחזרה מנגן. תיקוני טופס התחברות, שמירת כניסה ופקדי נגן מגיעים מהממשק המעודכן. נדרש Android 8 ומעלה; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
   },
   "tv": {
     "available": true,
     "applicationId": "il.eitantv.media.tv",
-    "versionCode": 2,
-    "versionName": "0.1.1",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.1/EitanTV-TV-0.1.1.apk",
-    "sha256": "913e35676dc607ad63710f5e63beed44d7bf62ca82255081d8f1d4147e2c221f",
-    "size": 19416,
+    "versionCode": 3,
+    "versionName": "0.1.2",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.2/EitanTV-TV-0.1.2.apk",
+    "sha256": "1573ac0f6ba1d023bf3e076789565d041d7cfec2665e04351c4520552f1892db",
+    "size": 19960,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "עדכון האייקון הרשמי של Media לטלפון ולטלוויזיה. נדרש Android 8 ומעלה ומחשב שרת מחובר. Eitangram ב־Android וצפייה מרחוק טרם הושלמו. ניגון ושלט עדיין דורשים בדיקה במכשיר אמיתי."
+    "notes": "התאמות TV למסך רחב, תפריט עדכונים נגיש בשלט וחזרה מנגן. תיקוני טופס התחברות, שמירת כניסה ופקדי נגן מגיעים מהממשק המעודכן. נדרש Android 8 ומעלה; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
   }
 }
