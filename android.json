@@ -3,23 +3,23 @@
   "phone": {
     "available": true,
     "applicationId": "il.eitantv.media",
-    "versionCode": 5,
-    "versionName": "0.1.4",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.4/EitanTV-Phone-0.1.4.apk",
-    "sha256": "a16354aeded946dbf2d0ae6e81d9b7eedeeb1f882597e78a5e15cacd329ae5ae",
+    "versionCode": 6,
+    "versionName": "0.1.5",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.5/EitanTV-Phone-0.1.5.apk",
+    "sha256": "718e79bf7554a4f4e4febb29a60a69176d3c31f5fb0c3f28f8bfb462c623cc5e",
     "size": 25952,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "בדיקת עדכונים אוטומטית והורדה מתוך האפליקציה עם אימות קובץ וחתימה. התקנה באישור Android בלבד. כיוון תזמון כתוביות והתאמתן לצפייה מרחוק בממשק המקוון. אין צורך להסיר את הגרסה הקודמת; נדרשת בדיקה במכשיר אמיתי."
+    "notes": "תיקון Back: יציאה ממסך מלא בלי לסגור באותה לחיצה את הנגן. בממשק המקוון תוקן חידוש וידאו לאחר חזרה מהרקע ונוסף Eitangram דרך מחשב אישי באותו חשבון. עדכון במקום עם אותה חתימה; ללא הרשאות נוספות. נדרשת בדיקה במכשיר אמיתי."
   },
   "tv": {
     "available": true,
     "applicationId": "il.eitantv.media.tv",
-    "versionCode": 5,
-    "versionName": "0.1.4",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.4/EitanTV-TV-0.1.4.apk",
-    "sha256": "be46a1a4c233e6983643cabb2763dbed570e54e2b59fcee1a8c7147909713d67",
-    "size": 26260,
+    "versionCode": 6,
+    "versionName": "0.1.5",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.5/EitanTV-TV-0.1.5.apk",
+    "sha256": "77d13abdd17ae890fa33723e8c2fabe3133b1ce6980c9782ff8ded35dcf50043",
+    "size": 26256,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "בדיקת עדכונים אוטומטית והורדה מתוך האפליקציה עם אימות קובץ וחתימה. התקנה באישור Android בלבד. כיוון תזמון כתוביות והתאמתן לצפייה מרחוק בממשק המקוון. אין צורך להסיר את הגרסה הקודמת; נדרשת בדיקה במכשיר אמיתי."
+    "notes": "תיקון Back: יציאה ממסך מלא בלי לסגור באותה לחיצה את הנגן. בממשק המקוון תוקן חידוש וידאו לאחר חזרה מהרקע ונוסף Eitangram דרך מחשב אישי באותו חשבון. עדכון במקום עם אותה חתימה; ללא הרשאות נוספות. נדרשת בדיקה במכשיר אמיתי."
   }
 }
