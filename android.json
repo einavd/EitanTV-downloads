@@ -3,23 +3,23 @@
   "phone": {
     "available": true,
     "applicationId": "il.eitantv.media",
-    "versionCode": 3,
-    "versionName": "0.1.2",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.2/EitanTV-Phone-0.1.2.apk",
-    "sha256": "6dc8cd80f5e61ff8ed32ef2affe3396c193144854ad7e86713588dc062250ba7",
-    "size": 19628,
+    "versionCode": 4,
+    "versionName": "0.1.3",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.3/EitanTV-Phone-0.1.3.apk",
+    "sha256": "44e024c6b723382fa73793c2110753d905141586d784ddf94b31ae51f6614b39",
+    "size": 19632,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "התאמות TV למסך רחב, תפריט עדכונים נגיש בשלט וחזרה מנגן. תיקוני טופס התחברות, שמירת כניסה ופקדי נגן מגיעים מהממשק המעודכן. נדרש Android 8 ומעלה; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
+    "notes": "מצב צפייה ממלא מסך, פקדים נסתרים ותפריט כתוביות. תיקון חזרה מהנגן בטלוויזיה והסתרת תפריט המעטפת בזמן צפייה. עדכון הממשק מגיע מהאתר; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
   },
   "tv": {
     "available": true,
     "applicationId": "il.eitantv.media.tv",
-    "versionCode": 3,
-    "versionName": "0.1.2",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.2/EitanTV-TV-0.1.2.apk",
-    "sha256": "1573ac0f6ba1d023bf3e076789565d041d7cfec2665e04351c4520552f1892db",
-    "size": 19960,
+    "versionCode": 4,
+    "versionName": "0.1.3",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.3/EitanTV-TV-0.1.3.apk",
+    "sha256": "eac301d60fe800e9e461b77c3066e2782a97751888f9d0e21ea7ab1bdb887365",
+    "size": 19976,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "התאמות TV למסך רחב, תפריט עדכונים נגיש בשלט וחזרה מנגן. תיקוני טופס התחברות, שמירת כניסה ופקדי נגן מגיעים מהממשק המעודכן. נדרש Android 8 ומעלה; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
+    "notes": "מצב צפייה ממלא מסך, פקדים נסתרים ותפריט כתוביות. תיקון חזרה מהנגן בטלוויזיה והסתרת תפריט המעטפת בזמן צפייה. עדכון הממשק מגיע מהאתר; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
   }
 }
