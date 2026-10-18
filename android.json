@@ -3,23 +3,23 @@
   "phone": {
     "available": true,
     "applicationId": "il.eitantv.media",
-    "versionCode": 4,
-    "versionName": "0.1.3",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.3/EitanTV-Phone-0.1.3.apk",
-    "sha256": "44e024c6b723382fa73793c2110753d905141586d784ddf94b31ae51f6614b39",
-    "size": 19632,
+    "versionCode": 5,
+    "versionName": "0.1.4",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.4/EitanTV-Phone-0.1.4.apk",
+    "sha256": "a16354aeded946dbf2d0ae6e81d9b7eedeeb1f882597e78a5e15cacd329ae5ae",
+    "size": 25952,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "מצב צפייה ממלא מסך, פקדים נסתרים ותפריט כתוביות. תיקון חזרה מהנגן בטלוויזיה והסתרת תפריט המעטפת בזמן צפייה. עדכון הממשק מגיע מהאתר; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
+    "notes": "בדיקת עדכונים אוטומטית והורדה מתוך האפליקציה עם אימות קובץ וחתימה. התקנה באישור Android בלבד. כיוון תזמון כתוביות והתאמתן לצפייה מרחוק בממשק המקוון. אין צורך להסיר את הגרסה הקודמת; נדרשת בדיקה במכשיר אמיתי."
   },
   "tv": {
     "available": true,
     "applicationId": "il.eitantv.media.tv",
-    "versionCode": 4,
-    "versionName": "0.1.3",
-    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.3/EitanTV-TV-0.1.3.apk",
-    "sha256": "eac301d60fe800e9e461b77c3066e2782a97751888f9d0e21ea7ab1bdb887365",
-    "size": 19976,
+    "versionCode": 5,
+    "versionName": "0.1.4",
+    "url": "https://github.com/einavd/EitanTV-downloads/releases/download/android-v0.1.4/EitanTV-TV-0.1.4.apk",
+    "sha256": "be46a1a4c233e6983643cabb2763dbed570e54e2b59fcee1a8c7147909713d67",
+    "size": 26260,
     "signerCertificateSha256": "3b5d410d0cd12b95987a58c36e4c9fc20a6adde8b783143777da8c4872fde7cd",
-    "notes": "מצב צפייה ממלא מסך, פקדים נסתרים ותפריט כתוביות. תיקון חזרה מהנגן בטלוויזיה והסתרת תפריט המעטפת בזמן צפייה. עדכון הממשק מגיע מהאתר; בדיקה פיזית בטלפון ובטלוויזיה עדיין נדרשת."
+    "notes": "בדיקת עדכונים אוטומטית והורדה מתוך האפליקציה עם אימות קובץ וחתימה. התקנה באישור Android בלבד. כיוון תזמון כתוביות והתאמתן לצפייה מרחוק בממשק המקוון. אין צורך להסיר את הגרסה הקודמת; נדרשת בדיקה במכשיר אמיתי."
   }
 }
